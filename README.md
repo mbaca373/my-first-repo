@@ -1,2 +1,2 @@
 # my-first-repo
-First Repository for ENG220
+This is my first GitHub Repository for ENG220
